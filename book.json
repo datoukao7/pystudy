@@ -1,0 +1,10 @@
+{
+"title":"Delphi编程思想",
+"description":"开源、共享、积累",
+"author":"dancingcode",
+"language":"zh-hans",
+"plugins":["code"],
+"pluginsConfig":{
+"code":{"copyButtons":true}}
+
+}
